@@ -1,0 +1,58 @@
+.mca{
+    width: 100%;
+    height: 25%;
+}
+.syllabus{
+    text-align: center;
+    margin-left:25%;
+    width: 25%;
+    list-style: none;
+}
+.syllabus li{
+    border: 1px solid skyblue;
+    color: skyblue;
+}
+.syllabus li a{
+    text-decoration: none;
+    color: skyblue;
+}
+.mca-article{
+    text-align: justify;
+    float: left;
+    padding: 0 10px;
+    width: 23%;
+}
+.mca-section{
+    float: left;
+    text-align: justify;
+    padding:  0 10px 0 10px;
+    width: 42%;
+}
+.mac-aside{
+    float: left;
+    text-align: justify;
+    padding:  0 10px;
+    width:30%;
+}
+.gallery{
+    display:inline-table;
+}
+.img-1{
+width: 25%;
+float: left;
+}
+
+.img-2{
+    float: left;
+width: 25%;
+}
+
+.img-3{
+    float: left;
+width: 25%;
+}
+
+.img-4{
+    float: left;
+width: 25%;
+}
